@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: ef3e9ec258a85c84cba33b56f5d81590
+guid: 763f3123eed6c094fa0eada79f8f1ccd
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enviro_mat
+    second: {fileID: 2100000, guid: df11b0ad08479a649844c4fe236fb4bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: enviro_mat
+    second: {fileID: 2100000, guid: ea3f2ac712b362c409cceff97b1815c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: player_mat
+    second: {fileID: 2100000, guid: 57930c27eaba1ba41af503c3040d3564, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

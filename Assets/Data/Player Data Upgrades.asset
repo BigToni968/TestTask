@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31a508d255a3bc4f956b3cbb6132df8, type: 3}
+  m_Name: Player Data Upgrades
+  m_EditorClassIdentifier: 
+  _datas:
+  - <PrefabView>k__BackingField: {fileID: 1977927904523593370, guid: 53332e11656fe6f4ea7c11ef6f907521,
+      type: 3}
+    SpeedMoveForward: 3
+    SpeedMoveX: 3
+    DurationRotate: 1
+    DurationAlignment: 1
+    TotalPoints: 0
+    MaxPoints: 40
+    ClampX: 1.2
+  - <PrefabView>k__BackingField: {fileID: 300162749205042487, guid: 1443a8899ed8fcc49820e95012d115c6,
+      type: 3}
+    SpeedMoveForward: 3
+    SpeedMoveX: 3
+    DurationRotate: 1
+    DurationAlignment: 1
+    TotalPoints: 0
+    MaxPoints: 100
+    ClampX: 1.2
+  - <PrefabView>k__BackingField: {fileID: -2690178830707204225, guid: b418ba9e63b5de54f82dfd681c8d2327,
+      type: 3}
+    SpeedMoveForward: 3
+    SpeedMoveX: 3
+    DurationRotate: 1
+    DurationAlignment: 1
+    TotalPoints: 0
+    MaxPoints: 250
+    ClampX: 1.2
+  - <PrefabView>k__BackingField: {fileID: 1956875992827200357, guid: 4e972d5bc7a3d6348a52b7d9a5e80f80,
+      type: 3}
+    SpeedMoveForward: 3
+    SpeedMoveX: 3
+    DurationRotate: 1
+    DurationAlignment: 1
+    TotalPoints: 0
+    MaxPoints: 500
+    ClampX: 1.2
+  - <PrefabView>k__BackingField: {fileID: -6721224638950288498, guid: bc54b1b069f0eca488e5382ba960f0c6,
+      type: 3}
+    SpeedMoveForward: 3
+    SpeedMoveX: 3
+    DurationRotate: 1
+    DurationAlignment: 1
+    TotalPoints: 0
+    MaxPoints: 1000
+    ClampX: 1.2
+  - <PrefabView>k__BackingField: {fileID: 2583364168212704016, guid: e8a8e733244517145b6b028dae814352,
+      type: 3}
+    SpeedMoveForward: 3
+    SpeedMoveX: 3
+    DurationRotate: 1
+    DurationAlignment: 1
+    TotalPoints: 0
+    MaxPoints: 2000
+    ClampX: 1.2
