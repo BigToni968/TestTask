@@ -5,8 +5,8 @@ Clone Run Rich3D
 
 ![Alt text](/Screenshots/Screenshot_1.jpg "Первый скрин.")
 
-![Alt text](/Screenshots/Screenshots_2.jpg "Второй скрин.")
+![Alt text](/Screenshots/Screenshot_2.jpg "Второй скрин.")
 
-![Alt text](/Screenshots/Screenshots_3.jpg "Третий скрин.")
+![Alt text](/Screenshots/Screenshot_3.jpg "Третий скрин.")
 
-![Alt text](/Screenshots/Screenshots_4.jpg "Четвёртый скрин.")
+![Alt text](/Screenshots/Screenshot_4.jpg "Четвёртый скрин.")
